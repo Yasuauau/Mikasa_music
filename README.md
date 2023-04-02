@@ -3,7 +3,7 @@
 **A bot that can play music on telegram group's voice call.Telegram bot + userbot for streaming audio in group calls.**
 
 <p align="center">
-  <a href="https://github.com/vi2k6/music-player">
+  <a href="https://github.com/Yasuauau/Mikasa_music">
      <img height="30px" src="https://img.shields.io/badge/VC%20Player%20Bot-black?style=for-the-badge&logo=github">
   </a>
 </p>
@@ -61,7 +61,7 @@ License -> https://github.com/TG-Musics/TG-VCBOT/blob/main/LICENSE
 ### Deploy To Heroku 📡</h4>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/vi2k6/Music-Player">
+  <a href="https://heroku.com/deploy?template="https://github.com/Yasuauau/Mikasa_music>
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 
@@ -73,11 +73,4 @@ License -> https://github.com/TG-Musics/TG-VCBOT/blob/main/LICENSE
 ### Credits ❤
 
 - **[TG MUSICS](https://github.com/TG-Musics)** (Organization)
-- **Vivek** (Dev)
-- **Aswin Raj** (Helper)
-- **Jayant Hegde Kageri** (Dev)
-- **Fayas** (Helper)
-- **RabbitFoRed** (Dev)
-- **Itz-Fork** (Y)
-- **Uvindu Bro** (Helper)
-- **DaisyX**
+- * savagekingdevill
